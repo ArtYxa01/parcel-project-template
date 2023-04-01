@@ -30,4 +30,4 @@ function marking(part) {
   `;
     })
     .join("");
-}
+};
